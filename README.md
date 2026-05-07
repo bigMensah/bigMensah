@@ -9,7 +9,7 @@ I am a Telecommunications Engineering student at KNUST (Final Year) with a focus
 
 ### 🛠️ Skills
 - Programming: Python, C++, DAX (Power BI).
-- Engineering Tools: Power BI, Behringer X32, DriveRack PA2.
+- Engineering Tools: Power BI.
 - Experience: Internships at Bayobab Africa (KPI Analysis) and GPHA (Electrical Systems).
 
 ### 📬 Connect with me
